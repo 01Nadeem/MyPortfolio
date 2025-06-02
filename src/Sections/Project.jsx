@@ -89,8 +89,8 @@ export default function ProjectsSection() {
 
   return (
     <div
-      className="relative text-white overflow-hidden flex items-center justify-center bg-cover bg-center bg-fixed p-8 sm:px-8"
-      style={{ backgroundImage: `url(${ProjectsBg})` }}
+      className="relative projects text-white overflow-hidden flex items-center justify-center bg-cover bg-center bg-fixed p-8 sm:px-8"
+
     >
       <div className="absolute inset-0 bg-black opacity-30 pointer-events-none" />
 

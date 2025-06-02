@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import ProjectsBg from "../assets/Projectbg.webp";
 import A_Fiber from "../assets/Project images/A_Fiber.webp";
 import Birla from "../assets/Project images/Birla.webp";
 import Iris from "../assets/Project images/Iris.webp";
